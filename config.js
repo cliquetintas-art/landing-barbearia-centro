@@ -1,8 +1,7 @@
 const empresa = {
-  nome: "Tintas Qualy Quimy",
-  cidade: "Itaquaquecetuba",
-  telefone: "5511954950044",
-  endereco: "Rua Leiria, 45 - SP",
-  descricao: "Fábrica de tintas com alto rendimento e entrega rápida.",
-  instagram: "https://instagram.com/tintasqualyquimy"
+  nome: "Barbearia Estilo Fino",
+  descricao: "Barbearia moderna com atendimento personalizado, corte masculino, barba e acabamento premium.",
+  telefone: "5511988887777",
+  instagram: "https://instagram.com/barbeariaestilofino",
+  cidade: "Poá - SP"
 };
